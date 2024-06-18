@@ -1,24 +1,21 @@
-
-
-
-from data_engineer import merge_scraped_files,scrap_links_post_date
+from Job_Links import merge_scraped_files,scrap_links_post_date
 dict_= {
 
     "data_analyst":{
 
         "Entry_level":{
             "bachelors":"link"
-            "masters":"link",
-            'doctorate':"link"
-        }
+            "masters":"link"
+            'doctorate':"link"  
+        },
         "Mid_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate': "link"
         },
         "Senior_level":{
-            "bachelors":"link",
-            "masters":"link",
+            "bachelors":"link"
+            "masters":"link"
             'doctorate':"link"
         }},
 
@@ -26,13 +23,13 @@ dict_= {
            
         "Entry_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate':"link"
            },
 
         "Mid_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate': "link"
             },
         "Senior_level":{
@@ -44,51 +41,51 @@ dict_= {
         
         "Entry_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate':"link"
            },
         "Mid_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate': "link"
             },
         "Senior_level":{
-            "bachelors":"link",
-            "masters":"link",
+            "bachelors":"link"
+            "masters":"link"
             'doctorate':"link"}},
 
     "data_engneering":{
         
         "Entry_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate':"link"
            },
         "Mid_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate': "link"
             },
         "Senior_level":{
-            "bachelors":"link",
-            "masters":"link",
+            "bachelors":"link"
+            "masters":"link"
             'doctorate':"link"}},
 
     "machine_learning_engineer":{
         
         "Entry_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate':"link"
            },
         "Mid_level":{
             "bachelors":"link"
-            "masters":"link",
+            "masters":"link"
             'doctorate': "link"
             },
         "Senior_level":{
-            "bachelors":"link",
-            "masters":"link",
+            "bachelors":"link"
+            "masters":"link"
             'doctorate':"link"}}}
 
 
