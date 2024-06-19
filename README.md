@@ -109,8 +109,11 @@ The data collection methodology employed a multi-phased web scraping approach us
 The Power BI dashboard consists of four main pages:
 
 Summary: Provides an overview of the project objectives, dataset, and key insights.
+
 Job Information: Analyzes job postings by level, average salaries based on degree and job level, and salaries across different data roles.
+
 Company & Skills: Examines company revenue distribution, job postings and salaries by company size and roles, and required skills for various data roles.
+
 Company Overview: Showcases job postings and ratings of top companies, CEO approval and work wellbeing scores by revenue, top employee benefits, and a detailed overview of selected companies.
 
 https://app.powerbi.com/view?r=eyJrIjoiYTQ5MDc4NjAtYzI0ZS00YTRjLWE4NGEtODgxMzY4Yjc2ZGI2IiwidCI6IjZmNDczODVjLTY3YjQtNGMwNi1hN2M0LWVmNmZhNTI4YTk1ZSIsImMiOjEwfQ%3D%3D&pageName=8261f97ece42040ada0a
