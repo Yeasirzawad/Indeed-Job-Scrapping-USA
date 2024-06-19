@@ -141,18 +141,14 @@ Insert gif or link to demo
 The Power BI dashboard consists of four main pages:
 
 Summary: Provides an overview of the project objectives, dataset, and key insights.
-<img width="809" alt="summary page" src="https://github.com/Yeasirzawad/Indeed-Job-Scrapping-USA/assets/163287308/6c0b4e65-c965-479d-a901-4ac440772506">
+
 
 Job Information: Analyzes job postings by level, average salaries based on degree and job level, and salaries across different data roles.
-
-<img width="960" alt="page 1 " src="https://github.com/Yeasirzawad/Indeed-Job-Scrapping-USA/assets/163287308/7ae57187-4152-4ceb-9d2d-7be5a1601542">
 
 
 Company & Skills: Examines company revenue distribution, job postings and salaries by company size and roles, and required skills for various data roles.
 
-<img width="960" alt="Page 2 " src="https://github.com/Yeasirzawad/Indeed-Job-Scrapping-USA/assets/163287308/9039abca-7b52-4d52-805e-b6d852ff9cb8">
-
 
 Company Overview: Showcases job postings and ratings of top companies, CEO approval and work wellbeing scores by revenue, top employee benefits, and a detailed overview of selected companies.
 
-<img width="960" alt="page 3" src="https://github.com/Yeasirzawad/Indeed-Job-Scrapping-USA/assets/163287308/471a4b3e-e68c-4e89-8611-53e54f2c9df0">
+
