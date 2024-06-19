@@ -97,7 +97,7 @@ The data collection methodology employed a multi-phased web scraping approach us
 | Variables | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `link` | `string` | The URL of the job posting|
-| `State Abbreviation` | `list` |States where job is located|
+| `State Abbreviation` | `string` |States where job is located|
 
 
 
@@ -105,7 +105,7 @@ The data collection methodology employed a multi-phased web scraping approach us
 
 
 
-## Data Cleaning and Segmentation:
+## Data Cleaning and Segmentation
 
 1. Imported the scraped data into Python and loaded it into a pandas DataFrame for further processing.
 2. Conducted data cleaning, including handling missing values, removing duplicates, and formatting columns.
@@ -125,20 +125,13 @@ https://app.powerbi.com/view?r=eyJrIjoiYTQ5MDc4NjAtYzI0ZS00YTRjLWE4NGEtODgxMzY4Y
 
 ## Key Insights
 Some of the key insights derived from the analysis include:
-
-Analyzed 11,290 job postings across 131 industries and 4,989 unique companies.
-
-Top states with the most job openings: California, Texas, and New York.
-
-Top hiring industries: Information Technology, Healthcare, and Aerospace & Defense.
-
-Machine learning engineers have the highest average salary, earning $165K.
-
-22.18% of companies have $1B-5B revenue, followed by $100M-500M (17.89%).
-
-Average CEO approval rating is 45.5%, with a company rating of 3.7/5.
-
-Python, SQL, Power BI, and Tableau are essential across data roles, while Scala, TensorFlow, and Kafka are critical for data engineers and scientists.
+1. Analyzed 11,290 job postings across 131 industries and 4,989 unique companies.
+2. Top states with the most job openings: California, Texas, and New York.
+3. Top hiring industries: Information Technology, Healthcare, and Aerospace & Defense.
+4. Machine learning engineers have the highest average salary, earning $165K.
+5. 22.18% of companies have $1B-5B revenue, followed by $100M-500M (17.89%).
+6. Average CEO approval rating is 45.5%, with a company rating of 3.7/5.
+7. Python, SQL, Power BI, and Tableau are essential across data roles, while Scala, TensorFlow, and Kafka are critical for data engineers and scientists.
 
 ## Contribution
 
