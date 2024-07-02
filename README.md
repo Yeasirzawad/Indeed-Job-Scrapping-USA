@@ -130,19 +130,19 @@ The Power BI dashboard consists of four main pages:
 ## Key Insights
 Some of the key insights derived from the analysis include:
 
-Analyzed 11,290 job postings across 131 industries and 4,989 unique companies.
+1. Analyzed 11,290 job postings across 131 industries and 4,989 unique companies.
 
-Top states with the most job openings: California, Texas, and New York.
+2. Top states with the most job openings: California, Texas, and New York.
 
-Top hiring industries: Information Technology, Healthcare, and Aerospace & Defense.
+3. Top hiring industries: Information Technology, Healthcare, and Aerospace & Defense.
 
-Machine learning engineers have the highest average salary, earning $165K.
+4. Machine learning engineers have the highest average salary, earning $165K.
 
-22.18% of companies have $1B-5B revenue, followed by $100M-500M (17.89%).
+5. 22.18% of companies have $1B-5B revenue, followed by $100M-500M (17.89%).
 
-Average CEO approval rating is 45.5%, with a company rating of 3.7/5.
+6. Average CEO approval rating is 45.5%, with a company rating of 3.7/5.
 
-Python, SQL, Power BI, and Tableau are essential across data roles, while Scala, TensorFlow, and Kafka are critical for data engineers and scientists.
+7. Python, SQL, Power BI, and Tableau are essential across data roles, while Scala, TensorFlow, and Kafka are critical for data engineers and scientists.
 
 ## Contribution
 
@@ -152,8 +152,3 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 ## Authors
 
 - [@Yeasirzawad](https://github.com/Yeasirzawad)
-
-    
-
-
-
