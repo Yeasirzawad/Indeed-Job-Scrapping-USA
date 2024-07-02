@@ -1,4 +1,5 @@
 
+
 # Job Market Analysis in Data-Driven Careers in USA
 ## Project Overview
 This project presents a comprehensive analysis of the job market for data-driven careers in the USA, offering insights into in-demand roles, skills, salary benchmarks, company profiles, geographic hotspots, and workforce development needs. The analysis is presented in the form of an interactive Power BI dashboard.
@@ -97,7 +98,7 @@ The data collection methodology employed a multi-phased web scraping approach us
 | Variables | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `link` | `string` | The URL of the job posting|
-| `State Abbreviation` | `string` |States where job is located|
+| `State Abbreviation` | `list` |States where job is located|
 
 
 
@@ -105,7 +106,7 @@ The data collection methodology employed a multi-phased web scraping approach us
 
 
 
-## Data Cleaning and Segmentation
+## Data Cleaning and Segmentation:
 
 1. Imported the scraped data into Python and loaded it into a pandas DataFrame for further processing.
 2. Conducted data cleaning, including handling missing values, removing duplicates, and formatting columns.
@@ -120,18 +121,28 @@ The Power BI dashboard consists of four main pages:
 3. Company & Skills: Examines company revenue distribution, job postings and salaries by company size and roles, and required skills for various data roles.
 4. Company Overview: Showcases job postings and ratings of top companies, CEO approval and work wellbeing scores by revenue, top employee benefits, and a detailed overview of selected companies.
 
-https://app.powerbi.com/view?r=eyJrIjoiYTQ5MDc4NjAtYzI0ZS00YTRjLWE4NGEtODgxMzY4Yjc2ZGI2IiwidCI6IjZmNDczODVjLTY3YjQtNGMwNi1hN2M0LWVmNmZhNTI4YTk1ZSIsImMiOjEwfQ%3D%3D&pageName=8261f97ece42040ada0a
+
+
+[![View Report](https://img.shields.io/badge/View%20Power%20BI%20Report-0078D4?style=for-the-badge&logo=power-bi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiYTQ5MDc4NjAtYzI0ZS00YTRjLWE4NGEtODgxMzY4Yjc2ZGI2IiwidCI6IjZmNDczODVjLTY3YjQtNGMwNi1hN2M0LWVmNmZhNTI4YTk1ZSIsImMiOjEwfQ%3D%3D&pageName=8261f97ece42040ada0a&fbclid=IwZXh0bgNhZW0CMTEAAR15CYGczhBypvaadaHKGVFyOjUbe_WgPAWGWk3Q81zstFIE7EAazZUQ4O8_aem_QDHVIHBEAiA7BCugdAbn6g)
+
 
 
 ## Key Insights
 Some of the key insights derived from the analysis include:
-1. Analyzed 11,290 job postings across 131 industries and 4,989 unique companies.
-2. Top states with the most job openings: California, Texas, and New York.
-3. Top hiring industries: Information Technology, Healthcare, and Aerospace & Defense.
-4. Machine learning engineers have the highest average salary, earning $165K.
-5. 22.18% of companies have $1B-5B revenue, followed by $100M-500M (17.89%).
-6. Average CEO approval rating is 45.5%, with a company rating of 3.7/5.
-7. Python, SQL, Power BI, and Tableau are essential across data roles, while Scala, TensorFlow, and Kafka are critical for data engineers and scientists.
+
+Analyzed 11,290 job postings across 131 industries and 4,989 unique companies.
+
+Top states with the most job openings: California, Texas, and New York.
+
+Top hiring industries: Information Technology, Healthcare, and Aerospace & Defense.
+
+Machine learning engineers have the highest average salary, earning $165K.
+
+22.18% of companies have $1B-5B revenue, followed by $100M-500M (17.89%).
+
+Average CEO approval rating is 45.5%, with a company rating of 3.7/5.
+
+Python, SQL, Power BI, and Tableau are essential across data roles, while Scala, TensorFlow, and Kafka are critical for data engineers and scientists.
 
 ## Contribution
 
@@ -141,5 +152,8 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 ## Authors
 
 - [@Yeasirzawad](https://github.com/Yeasirzawad)
+
+    
+
 
 
